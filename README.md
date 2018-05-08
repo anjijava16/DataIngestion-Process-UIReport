@@ -1,4 +1,10 @@
-# DataIngestion-Process-UIReport
+# DataIngestion-Process-UIReport 
+Source: MYSQL <br/>
+Processing: SQOOP(Data Importing) Using internally MR (OR) Java JDBC APIS/HDFS API'S,S3 BOTO3 and aws-sdk Jars (OR)
+              Spark JDBC Read Using Scala <br/>
+Target: S3/HDFS <br/>
+
+
 
 # DataIngestion: <br/>
   Data Generation Around 1GB Data <br/>
